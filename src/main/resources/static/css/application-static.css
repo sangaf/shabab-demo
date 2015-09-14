@@ -1,0 +1,227 @@
+.shabab-program-div {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,dcdcdc+100 */
+    padding: 20px;
+    padding-left: 75px;
+    text-align: left;
+    float: right;
+    width: 560px;
+    background: #ffffff; /* Old browsers */
+    background: -moz-linear-gradient(top, #ffffff 0%, #dcdcdc 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, #dcdcdc)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #ffffff 0%, #dcdcdc 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #ffffff 0%, #dcdcdc 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #ffffff 0%, #dcdcdc 100%); /* IE10+ */
+    background: linear-gradient(to bottom, #ffffff 0%, #dcdcdc 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#dcdcdc', GradientType=0); /* IE6-9 */
+    border: 1px double #d8d8d8;
+    border-radius: 12px;
+    position: relative;
+    top: 130px;
+
+    font-size: 12px;
+}
+
+.form-div {
+    display: block;
+    padding: 5px 0 3px 0;
+}
+
+label {
+    width: 101px;
+    display: inline-block;
+}
+
+input {
+    display: inline-block;
+    margin: 10px 0;
+    width: 200px;
+    height: 25px;
+    border-color: #d7d7d7;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.shabab-logo {
+    float: left;
+    width: 176px;
+    height: 164px;
+    background: transparent url("../images/shabab-logo.png") no-repeat 0 0;
+}
+
+button {
+    background-color: #434a5d;
+}
+
+body {
+    background-color: #434a5d;
+    font-family: Arial;
+    color: #707070;
+}
+
+.shabab-program-div-wrapper {
+    margin: 0 auto;
+    text-align: center;
+    width: 835px;
+}
+
+.btn {
+    background: #bdc4c9;
+    background-image: -webkit-linear-gradient(top, #bdc4c9, #363a3d);
+    background-image: -moz-linear-gradient(top, #bdc4c9, #363a3d);
+    background-image: -ms-linear-gradient(top, #bdc4c9, #363a3d);
+    background-image: -o-linear-gradient(top, #bdc4c9, #363a3d);
+    background-image: linear-gradient(to bottom, #bdc4c9, #363a3d);
+    border-style: none;
+    border-radius: 10px;
+    text-shadow: 1px 1px 3px #666666;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 5px 20px 5px 20px;
+    text-decoration: none;
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 200px;
+    display: inline-block;
+    text-align: center;
+}
+
+.btn:hover {
+    background: #525252;
+    background-image: -webkit-linear-gradient(top, #525252, #cfcfcf);
+    background-image: -moz-linear-gradient(top, #525252, #cfcfcf);
+    background-image: -ms-linear-gradient(top, #525252, #cfcfcf);
+    background-image: -o-linear-gradient(top, #525252, #cfcfcf);
+    background-image: linear-gradient(to bottom, #525252, #cfcfcf);
+    text-decoration: none;
+}
+
+.shabab-table {
+
+    font-size: 12px;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    border: 1px solid #938d8d;
+
+    -moz-border-radius-bottomleft: 0px;
+    -webkit-border-bottom-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+
+    -moz-border-radius-bottomright: 0px;
+    -webkit-border-bottom-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+
+    -moz-border-radius-topright: 0px;
+    -webkit-border-top-right-radius: 0px;
+    border-top-right-radius: 0px;
+
+    -moz-border-radius-topleft: 0px;
+    -webkit-border-top-left-radius: 0px;
+    border-top-left-radius: 0px;
+}
+
+.shabab-table table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.shabab-table tr:last-child td:last-child {
+    -moz-border-radius-bottomright: 0px;
+    -webkit-border-bottom-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.shabab-table table tr:first-child td:first-child {
+    -moz-border-radius-topleft: 0px;
+    -webkit-border-top-left-radius: 0px;
+    border-top-left-radius: 0px;
+}
+
+.shabab-table table tr:first-child td:last-child {
+    -moz-border-radius-topright: 0px;
+    -webkit-border-top-right-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+.shabab-table tr:last-child td:first-child {
+    -moz-border-radius-bottomleft: 0px;
+    -webkit-border-bottom-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+.shabab-table tr:hover td {
+
+}
+
+.shabab-table tr:nth-child(odd) {
+    background-color: #f2f0ef;
+}
+
+.shabab-table tr:nth-child(even) {
+    background-color: #ffffff;
+}
+
+.shabab-table td {
+    vertical-align: middle;
+
+    border: 1px solid #938d8d;
+    border-width: 0px 1px 1px 0px;
+    text-align: left;
+    padding: 7px;
+    font-size: 12px;
+    font-family: Arial;
+    font-weight: normal;
+    color: #000000;
+}
+
+.shabab-table tr:last-child td {
+    border-width: 0px 1px 0px 0px;
+}
+
+.shabab-table tr td:last-child {
+    border-width: 0px 0px 1px 0px;
+}
+
+.shabab-table tr:last-child td:last-child {
+    border-width: 0px 0px 0px 0px;
+}
+
+.shabab-table tr:first-child td {
+    background: -o-linear-gradient(bottom, #3f3939 5%, #999999 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #3f3939), color-stop(1, #999999));
+    background: -moz-linear-gradient(center top, #3f3939 5%, #999999 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3f3939", endColorstr="#999999");
+    background: -o-linear-gradient(top, #3f3939, 999999);
+
+    background-color: #3f3939;
+    border: 0px solid #938d8d;
+    text-align: center;
+    border-width: 0px 0px 1px 1px;
+    font-size: 14px;
+    font-family: Arial;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.shabab-table tr:first-child:hover td {
+    background: -o-linear-gradient(bottom, #3f3939 5%, #999999 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #3f3939), color-stop(1, #999999));
+    background: -moz-linear-gradient(center top, #3f3939 5%, #999999 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3f3939", endColorstr="#999999");
+    background: -o-linear-gradient(top, #3f3939, 999999);
+
+    background-color: #3f3939;
+}
+
+.shabab-table tr:first-child td:first-child {
+    border-width: 0px 0px 1px 0px;
+}
+
+.shabab-table tr:first-child td:last-child {
+    border-width: 0px 0px 1px 1px;
+}
